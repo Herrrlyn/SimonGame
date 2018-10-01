@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">SimonGame</string>
+    <string name="startButton">startButton</string>
+
+    <string name="hard">Hard</string>
+    <string name="normal">Normal</string>
+    <string name="easy">Easy</string>
+    <string name="select_level">Select Level</string>
+    <string name="OneButton">OneButton</string>
+    <string name="TwoButton">TwoButtons</string>
+    <string name="ThreeButton">ThreeButtons</string>
+    <string name="FourButton">FourButtons</string>
+    <string name="FiveButton">FiveButtons</string>
+    <string name="SixButton">SixButtons</string>
+    <string name="select_button_number">Select Button Number</string>
+    <string name="score">Score: </string>
+    <string name="to_begin">Push begin button to begin the game.</string>
+    <string name="watch">Watch what I do...</string>
+    <string name="your_turn">It is your turn!</string>
+    <string name="win_message">You win!</string>
+    <string name="lose_message">You lose!</string>
+    <string name="begin">begin</string>
+    <string name="submit">submit</string>
+    <string name="_0">0</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+
+</resources>
